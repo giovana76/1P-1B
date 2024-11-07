@@ -1,9 +1,30 @@
 body{
-background-color: rgb(122, 95, 139);
+background-color: rgb(58, 44, 66);
+color: white;
 text-align: center;
+margin: 0;
 }
 
 h1{
-    color:rgb(39, 59, 71);
-    text-align: center;
+margin: 50px;
+padding: 30px;
+border-radius: 20px;
+
+}
+main{
+background-color: rgb(53, 50, 68);
+padding: 20px;
+}
+.cabecalho{
+    background-color: rgb(58, 44, 66);
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+a{
+    color: white;
+    padding: 24px;
 }
