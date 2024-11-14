@@ -5,14 +5,8 @@ text-align: center;
 margin: 0;
 }
 
-h1{
-margin: 50px;
-padding: 30px;
-border-radius: 20px;
-
-}
 main{
-background-color: rgb(53, 50, 68);
+background-color: rgb(79, 76, 102);
 padding: 20px;
 }
 .cabecalho{
@@ -27,4 +21,6 @@ padding: 20px;
 a{
     color: white;
     padding: 24px;
+    font-size: 24px;
+    text-decoration: none;
 }
